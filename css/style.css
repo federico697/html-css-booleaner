@@ -17,3 +17,26 @@ header img{
     height: 50px;
     margin-top: 40px;
 }
+
+ul{
+    margin-left: 20px;
+}
+
+.paragrafo{
+    margin: 30px 0;;
+}
+
+#foto1{
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+#foto2{
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 200px;
+    margin-bottom: 20px;
+}
