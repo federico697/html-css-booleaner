@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    position: center;
+    background-size: contain;
+    background-color: aqua;
+    height: 100px;
+}
+
+header img{
+    height: 50px;
+    margin-top: 40px;
+}
